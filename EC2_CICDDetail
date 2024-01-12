@@ -53,7 +53,7 @@ click on install suggested plugins
 after that install docker and docker pipeline plugin, 
 install git plugin also
 
-5.) Create Repo in ECR with name my-cid-repo
+5.) Create Repo in ECR with name my-cicd-repo
 6.) install awscli on ec2 instance  "sudo apt install awscli"
 7.) install git using command "sudo apt install git -y"
 8.) install maven using command "sudo apt install maven -y"
